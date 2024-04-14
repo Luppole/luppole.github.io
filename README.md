@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>Thats Me, Luppole</title>
@@ -7,7 +6,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f0f0f0;
+            background-color: #7d86ff;
         }
 
         header {
@@ -41,10 +40,10 @@
     <main>
         <h1>Welcome!</h1>
         <p>You'd probably encounter some stupid projects I made during your time here</p>
-        <h2>Posts</h2>
+        <h2>Projects</h2>
         <ul>
-            <li><a href="mapping.html">1</a></li>
-            <li><a href="python-decorators.html">1</a></li>
+            <li><a href="a">1</a></li>
+            <li><a href="a">1</a></li>
         </ul>
     </main>
 </body>
