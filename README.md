@@ -39,7 +39,7 @@
         <h1>Nothing special happens here</h1>
     </header>
     <main>
-        <h1>Welcome to Benami!</h1>
+        <h1>Welcome!</h1>
         <p>You'd probably encounter some stupid projects I made during your time here</p>
         <h2>Posts</h2>
         <ul>
